@@ -6,4 +6,4 @@ node index.js
 
 # Launch test
 
-npm test 
+install with npm install then npm test 
